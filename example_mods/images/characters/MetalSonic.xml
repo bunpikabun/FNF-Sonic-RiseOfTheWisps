@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MetalSonic.png"><SubTexture name="MetalSonic Down0000" x="0" y="0" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Down0001" x="475" y="0" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Down0002" x="950" y="0" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Idle0000" x="1425" y="0" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Idle0001" x="0" y="628" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Idle0002" x="475" y="628" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Idle0003" x="950" y="628" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Idle0004" x="1425" y="628" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Idle0005" x="0" y="1256" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Idle0006" x="475" y="1256" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Idle0007" x="950" y="1256" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Idle0008" x="1425" y="1256" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Idle0009" x="0" y="1884" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Idle0010" x="475" y="1884" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Left0000" x="950" y="1884" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Left0001" x="1425" y="1884" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Left0002" x="0" y="2512" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Right0000" x="475" y="2512" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Right0001" x="950" y="2512" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Right0002" x="1425" y="2512" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Up0000" x="0" y="3140" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Up0001" x="475" y="3140" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+<SubTexture name="MetalSonic Up0002" x="950" y="3140" width="475" height="628" frameX="0" frameY="0" frameWidth="475" frameHeight="628" />
+</TextureAtlas>

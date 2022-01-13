@@ -1,0 +1,39 @@
+{
+	"storyName": "VS Void & Freny",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"our-destiny",
+			"dad",
+			[
+				0,
+				0,
+				140
+			]
+		],
+		[
+			"acceptance",
+			"dad",
+			[
+				0,
+				0,
+				140
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Vs Void & Frenzy"
+}

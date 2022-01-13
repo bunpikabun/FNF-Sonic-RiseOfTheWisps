@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Wisps_sprites.png"><SubTexture name="Wisps sprites Idle0000" x="0" y="0" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Idle0001" x="604" y="0" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Idle0002" x="1208" y="0" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Idle0003" x="1812" y="0" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Idle0004" x="0" y="604" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Idle0005" x="604" y="604" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Idle0006" x="1208" y="604" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Idle0007" x="1812" y="604" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Idle0008" x="0" y="1208" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Idle0009" x="604" y="1208" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Idle0010" x="1208" y="1208" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Right0000" x="1812" y="1208" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Right0001" x="0" y="1812" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Left0000" x="604" y="1812" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Left0001" x="1208" y="1812" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Left0002" x="1812" y="1812" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Left0003" x="0" y="2416" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Down0000" x="604" y="2416" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Down0001" x="1208" y="2416" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Down0002" x="1812" y="2416" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Down0003" x="0" y="3020" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Up0000" x="604" y="3020" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Up0001" x="1208" y="3020" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Up0002" x="1812" y="3020" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="Wisps sprites Up0003" x="0" y="3624" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+</TextureAtlas>

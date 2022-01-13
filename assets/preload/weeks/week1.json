@@ -1,0 +1,39 @@
+{
+	"storyName": "vs eggman",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"robotnik",
+			"dad",
+			[
+				120,
+				200,
+				0
+			]
+		],
+		[
+			"that-hedgehog",
+			"dad",
+			[
+				120,
+				200,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Vs eggman"
+}
